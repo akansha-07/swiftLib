@@ -7,16 +7,16 @@
 
 import Foundation
 
-public final class SwiftyLib {
+open final class SwiftyLib {
 
     let name = "SwiftyLib"
     
     
-    public static func add(a: Int, b: Int) -> Int {
+    open static func add(a: Int, b: Int) -> Int {
         return a + b
     }
     
-    public static func sub(a: Int, b: Int) -> Int {
+    open static func sub(a: Int, b: Int) -> Int {
         return a - b
     }
     
