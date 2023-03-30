@@ -16,6 +16,7 @@
 		93B8B6AE29D57AD50079DD62 /* SwiftLibTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B8B6AD29D57AD50079DD62 /* SwiftLibTests.swift */; };
 		93B8B6B829D57AD50079DD62 /* SwiftLibUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B8B6B729D57AD50079DD62 /* SwiftLibUITests.swift */; };
 		93B8B6BA29D57AD50079DD62 /* SwiftLibUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B8B6B929D57AD50079DD62 /* SwiftLibUITestsLaunchTests.swift */; };
+		93B8B6C729D58C7A0079DD62 /* SwiftLib.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B8B6C629D58C7A0079DD62 /* SwiftLib.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		93B8B6B329D57AD50079DD62 /* SwiftLibUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftLibUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		93B8B6B729D57AD50079DD62 /* SwiftLibUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftLibUITests.swift; sourceTree = "<group>"; };
 		93B8B6B929D57AD50079DD62 /* SwiftLibUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftLibUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		93B8B6C629D58C7A0079DD62 /* SwiftLib.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftLib.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				93B8B69F29D57AD50079DD62 /* Assets.xcassets */,
 				93B8B6A129D57AD50079DD62 /* LaunchScreen.storyboard */,
 				93B8B6A429D57AD50079DD62 /* Info.plist */,
+				93B8B6C629D58C7A0079DD62 /* SwiftLib.swift */,
 			);
 			path = SwiftLib;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				93B8B69B29D57AD40079DD62 /* ViewController.swift in Sources */,
+				93B8B6C729D58C7A0079DD62 /* SwiftLib.swift in Sources */,
 				93B8B69729D57AD40079DD62 /* AppDelegate.swift in Sources */,
 				93B8B69929D57AD40079DD62 /* SceneDelegate.swift in Sources */,
 			);
