@@ -7,6 +7,8 @@
 
 import Foundation
 
+import Alamofire
+
 open class SwiftyLib {
 
     let name = "SwiftyLib"
