@@ -7,7 +7,7 @@
 
 import Foundation
 
-open final class SwiftyLib {
+open class SwiftyLib {
 
     let name = "SwiftyLib"
     
