@@ -12,11 +12,11 @@ open class SwiftyLib {
     let name = "SwiftyLib"
     
     
-    open static func add(a: Int, b: Int) -> Int {
+    open func add(a: Int, b: Int) -> Int {
         return a + b
     }
     
-    open static func sub(a: Int, b: Int) -> Int {
+    open func sub(a: Int, b: Int) -> Int {
         return a - b
     }
     
